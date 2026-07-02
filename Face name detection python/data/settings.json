@@ -1,0 +1,18 @@
+{
+    "camera_index": 0,
+    "resolution_width": 1280,
+    "resolution_height": 720,
+    "confidence_threshold": 0.5,
+    "recognition_sensitivity": 0.55,
+    "admin_password_hash": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "voice_enabled": true,
+    "attendance_mode": true,
+    "fps_display": true,
+    "num_samples": 40,
+    "blur_threshold": 80.0,
+    "min_face_size": 80,
+    "recognition_model": "hog",
+    "debounce_seconds": 2.5,
+    "theme": "dark",
+    "color_accent": "#00d4ff"
+}

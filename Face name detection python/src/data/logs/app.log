@@ -1,0 +1,11 @@
+2026-07-02 10:23:48  INFO      main  —  ==================================================
+2026-07-02 10:23:48  INFO      main  —  FaceID — AI Facial Recognition System — Starting
+2026-07-02 10:23:48  INFO      main  —  ==================================================
+2026-07-02 10:23:50  INFO      settings  —  Settings initialised with defaults.
+2026-07-02 10:23:50  INFO      main  —  Settings loaded. Camera index: 0
+2026-07-02 10:23:50  INFO      database  —  Database initialised at C:\Users\SREERAG\Desktop\Face name detection python\src\data\faces.db
+2026-07-02 10:23:50  INFO      main  —  Database ready — 0 registered persons, 0 recognitions total.
+2026-07-02 10:23:50  INFO      main  —  Launching GUI...
+2026-07-02 10:23:50  INFO      face_recognition_engine  —  Encoding cache loaded: 0 vectors.
+2026-07-02 10:25:13  INFO      camera  —  Camera started (index=0, 1280x720).
+2026-07-02 10:25:13  INFO      face_recognition_engine  —  Encoding cache loaded: 0 vectors.
